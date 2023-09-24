@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Clean Water for Children is a vital initiative dedicated to ensuring that every child has access to safe and uncontaminated drinking water.",
+        "price": "$300.00"
+    },
+    {
+        "id": 2,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "The Good Education initiative is committed to providing high-quality learning opportunities to children and young adults worldwide.",
+        "price": "$400.00"
+    },
+    {
+        "id": 3,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "The Used Clothing Drive is a community-driven initiative dedicated to collecting gently used clothing items and redistributing them to those in need.",
+        "price": "$200.00"
+    },
+    {
+        "id": 4,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#F8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "The Better Food for Everyone initiative is a commitment to ensuring that everyone has access to nutritious, affordable, and sustainably sourced food.",
+        "price": "$650.00"
+    },
+    {
+        "id": 5,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#F8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "The Better Food for Everyone initiative is a commitment to ensuring that everyone has access to nutritious, affordable, and sustainably sourced food.",
+        "price": "$650.00"
+    },
+    {
+        "id": 6,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "The Used Clothing Drive is a community-driven initiative dedicated to collecting gently used clothing items and redistributing them to those in need.",
+        "price": "$200.00"
+    },
+    {
+        "id": 7,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "The Good Education initiative is committed to providing high-quality learning opportunities to children and young adults worldwide.",
+        "price": "$400.00"
+    },
+    {
+        "id": 8,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Clean Water for Children is a vital initiative dedicated to ensuring that every child has access to safe and uncontaminated drinking water.",
+        "price": "$300.00"
+    },
+    {
+        "id": 9,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "text_button_bg_color": "#0052FF",
+        "description": "Clean Water for Children is a vital initiative dedicated to ensuring that every child has access to safe and uncontaminated drinking water.",
+        "price": "$300.00"
+    },
+    {
+        "id": 10,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "text_button_bg_color": "#FF444A",
+        "description": "The Good Education initiative is committed to providing high-quality learning opportunities to children and young adults worldwide.",
+        "price": "$400.00"
+    },
+    {
+        "id": 11,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "text_button_bg_color": "#79C23F",
+        "description": "The Used Clothing Drive is a community-driven initiative dedicated to collecting gently used clothing items and redistributing them to those in need.",
+        "price": "$200.00"
+    },
+    {
+        "id": 12,
+        "picture": "https://raw.githubusercontent.com/ProgrammingHero1/donation-campaign/main/Resources/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#F8714733",
+        "card_bg_color": "#F8714726",
+        "text_button_bg_color": "#F87147",
+        "description": "The Better Food for Everyone initiative is a commitment to ensuring that everyone has access to nutritious, affordable, and sustainably sourced food.",
+        "price": "$650.00"
+    }
+]
