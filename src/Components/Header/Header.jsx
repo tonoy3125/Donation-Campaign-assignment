@@ -3,8 +3,8 @@ import logo from "../../../images/Logo.png";
 
 const Header = () => {
     return (
-        <div className="container mx-auto">
-            <div className="navbar bg-[#fff]">
+        <div className="container mx-auto sticky mt-5">
+            <div className="navbar bg-transparent z-50">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost md:hidden lg:hidden">
