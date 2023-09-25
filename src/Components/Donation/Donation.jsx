@@ -31,7 +31,7 @@ const Donate = () => {
     }
     return (
         <div className="container mx-auto mt-20">
-            {dataFound ? <p className="h-80vh flex justify-center items-center mb-5">{dataFound}</p> :
+            {dataFound ? <p className="h-80vh text-lg font-bold flex justify-center items-center mb-5">{dataFound}</p> :
                 <div>
                     {moneyDonate.length > 0 && <button onClick={handleRemove} className="px-7 py-2 mb-5 bg-[#009444] rounded-lg block  mx-auto">Delete all</button>}
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
