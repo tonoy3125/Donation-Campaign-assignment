@@ -4,7 +4,6 @@ const Banner = ({ searchItem, setSearchItem }) => {
 
 
     const handleSearch = () => {
-        // Assuming you get the search value from an input element with a ref named 'searchInput'
         const searchValue = document.getElementById('searchInput').value;
         setSearchItem(searchValue);
     };
