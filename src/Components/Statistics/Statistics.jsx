@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect, useState } from "react";
 import { PieChart, Pie, Cell, Legend } from "recharts";
 
