@@ -6,10 +6,6 @@ import Cards from "../Cards/Cards";
 const Home = () => {
     const [searchItem,setSearchItem] = useState("")
 
-    
-
-
-
     return (
         <div>
             <Banner setSearchItem={setSearchItem} searchItem={searchItem}></Banner>

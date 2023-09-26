@@ -54,16 +54,16 @@ export default function Statistics() {
     };
 
     return (
-        <div className="text-center">
+        <div className="text-center container mx-auto">
             <div className="inline-block">
-                <PieChart width={400} height={400}>
+                <PieChart width={420} height={420}>
                     <Pie
                         data={data}
-                        cx={200}
-                        cy={200}
+                        cx={210}
+                        cy={210}
                         labelLine={false}
                         label={renderCustomizedLabel}
-                        outerRadius={100}
+                        outerRadius={105}
                         fill="#8884d8"
                         dataKey="value">
                         {data.map((entry, index) => (
@@ -75,6 +75,7 @@ export default function Statistics() {
                     </Pie>
                     <Legend />
                 </PieChart>
+                
             </div>
         </div>
     );

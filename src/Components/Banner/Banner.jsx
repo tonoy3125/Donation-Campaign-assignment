@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import banner from "../../../images/banner.jpg";
 
 const Banner = ({ searchItem, setSearchItem }) => {

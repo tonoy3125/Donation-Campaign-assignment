@@ -20,10 +20,11 @@ const Donate = () => {
         if (storedCardIds.length == 0) {
             setDataFound('No Data Found')
         }
+        // console.log('moneyDonate:', moneyDonate);
 
     }, [cards])
 
-
+    // console.log(moneyDonate.length)
     const handleRemove = () => {
         localStorage.clear()
         setMoneyDonate([])
