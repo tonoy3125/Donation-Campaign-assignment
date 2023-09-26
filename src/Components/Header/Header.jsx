@@ -11,7 +11,7 @@ const Header = () => {
                         <label tabIndex={0} className="btn btn-ghost md:hidden lg:hidden">
                             <AiOutlineMenu className="text-2xl font-extrabold"></AiOutlineMenu>
                         </label>
-                        <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                        <ul tabIndex={0} className=" menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                             <li className="text-lg font-normal text-[#0B0B0B] text-center"><NavLink className={({ isActive, isPending }) =>
                                 isPending ? "pending" : isActive ? "text-red-600 font-medium underline" : ""
                             } to="/">Home</NavLink></li>
