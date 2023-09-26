@@ -54,7 +54,7 @@ export default function Statistics() {
     };
 
     return (
-        <div className="text-center container mx-auto">
+        <div className="text-center container mx-auto mb-5">
             <div className="inline-block">
                 <PieChart width={420} height={420}>
                     <Pie

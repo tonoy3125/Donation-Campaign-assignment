@@ -7,7 +7,7 @@ const Card = ({ card }) => {
     const { id, picture, title, category, category_bg_color, card_bg_color, text_button_bg_color } = card;
 
     return (
-        <div>
+        <div className="w-[380px] mx-auto  md:w-full">
             <Link to={`/donation/${id}`}><div className={`card card-compact shadow-xl`} style={{ backgroundColor: `${card_bg_color}` }}>
                 <figure><img className="w-full" src={picture} alt="Shoes" /></figure>
                 <div className="ml-4">

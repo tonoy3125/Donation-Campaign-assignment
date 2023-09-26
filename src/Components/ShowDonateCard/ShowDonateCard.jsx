@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const ShowDonateCard = ({ card }) => {
     const { id, picture, price, category, title, category_bg_color, card_bg_color, text_button_bg_color } = card;
     return (
-        <div>
+        <div className="w-[380px] mx-auto md:w-full">
             <div className={`card-compact rounded-lg shadow-xl lg:flex`} style={{ backgroundColor: `${card_bg_color}` }}>
                 <div>
                     <figure><img className="w-full h-[200px] rounded-l-lg" src={picture} alt="Shoes" /></figure>
